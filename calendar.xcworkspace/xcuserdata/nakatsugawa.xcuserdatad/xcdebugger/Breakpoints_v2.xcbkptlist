@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "60DCAEB1-F040-47CA-B1A5-87F18AA573CC"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DA9E3494-2D12-4754-9908-52C7D9EC2A30"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "calendar/CalendarView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "79"
+            endingLineNumber = "79"
+            landmarkName = "_dateFilter()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C92CB07C-8CD5-4BA9-A4DE-36574E964EF3"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "calendar/CalendarView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "50"
+            endingLineNumber = "50"
+            landmarkName = "_getSchedule()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C92CB07C-8CD5-4BA9-A4DE-36574E964EF3 - e46b10f6ca7f2c6d"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (NCMB.NCMBResult&lt;Swift.Array&lt;NCMB.NCMBObject&gt;&gt;) -&gt; () in calendar.CalendarView.getSchedule() -&gt; ()"
+                  moduleName = "calendar"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nakatsugawa/Code/NCMB/calendar/calendar/CalendarView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "512">
+               </Location>
+               <Location
+                  uuid = "C92CB07C-8CD5-4BA9-A4DE-36574E964EF3 - 3432f677bebfd50d"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #1 (NCMB.NCMBResult&lt;Swift.Array&lt;NCMB.NCMBObject&gt;&gt;) -&gt; () in calendar.CalendarView.getSchedule() -&gt; ()"
+                  moduleName = "calendar"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nakatsugawa/Code/NCMB/calendar/calendar/CalendarView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "48">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7015ECF0-A562-4B40-B7E4-5B1AD7DCF6A8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "calendar/CalendarView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "183"
+            endingLineNumber = "183"
+            landmarkName = "calendar(_:numberOfEventsFor:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F3C1C1D9-B3FB-413A-9558-1B92685C28DB"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "calendar/CalendarView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "187"
+            endingLineNumber = "187"
+            landmarkName = "calendar(_:numberOfEventsFor:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FDF743ED-A724-44C1-A414-EACCC95D2FA8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "calendar/CalendarView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "47"
+            endingLineNumber = "47"
+            landmarkName = "_getSchedule()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "FDF743ED-A724-44C1-A414-EACCC95D2FA8 - e46b10f6ca7f2c2b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (NCMB.NCMBResult&lt;Swift.Array&lt;NCMB.NCMBObject&gt;&gt;) -&gt; () in calendar.CalendarView.getSchedule() -&gt; ()"
+                  moduleName = "calendar"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nakatsugawa/Code/NCMB/calendar/calendar/CalendarView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "224">
+               </Location>
+               <Location
+                  uuid = "FDF743ED-A724-44C1-A414-EACCC95D2FA8 - e46b10f6ca7f2c2b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (NCMB.NCMBResult&lt;Swift.Array&lt;NCMB.NCMBObject&gt;&gt;) -&gt; () in calendar.CalendarView.getSchedule() -&gt; ()"
+                  moduleName = "calendar"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nakatsugawa/Code/NCMB/calendar/calendar/CalendarView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "272">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "47CFF622-DEBC-4568-986C-CF43F26861B5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "calendar/FormView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "60"
+            endingLineNumber = "60"
+            landmarkName = "_save()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "47CFF622-DEBC-4568-986C-CF43F26861B5 - 5b3a4eec81bab5c7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "calendar.FormView.saveOrUpdate() -&gt; ()"
+                  moduleName = "calendar"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nakatsugawa/Code/NCMB/calendar/calendar/FormView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "55"
+                  endingLineNumber = "55"
+                  offsetFromSymbolStart = "1784">
+               </Location>
+               <Location
+                  uuid = "47CFF622-DEBC-4568-986C-CF43F26861B5 - 1db9a2418d205dcf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (NCMB.NCMBResult&lt;()&gt;) -&gt; () in calendar.FormView.saveOrUpdate() -&gt; ()"
+                  moduleName = "calendar"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nakatsugawa/Code/NCMB/calendar/calendar/FormView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "56"
+                  endingLineNumber = "56"
+                  offsetFromSymbolStart = "244">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8F3EE012-C509-4D61-9874-F94AED375D86"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "calendar/FormView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "_setValue()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9F092024-37FE-4BC3-A1B9-21F123553FA2"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "calendar/FormView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "88"
+            endingLineNumber = "88"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A6BCDBB6-8286-460E-A4BA-514BD27D8D65"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "calendar/FormView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "_setValue()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "01F3394E-0B07-4F8C-BAFF-D32F57E32F3E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "calendar/FormView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "_setValue()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D08D0A56-4F69-4632-8052-6DF5AA3D992E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "calendar/CalendarListItemView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "viewTime()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B002A90D-4338-4AF8-BEA7-C5B18F81C9C3"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "calendar/CalendarView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "131"
+            endingLineNumber = "131"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "B002A90D-4338-4AF8-BEA7-C5B18F81C9C3 - 2a12aa6688826ae9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #4 (Swift.String) -&gt; () in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.onChange&lt;&#x3c4;_0_0 where &#x3c4;_1_0: Swift.Equatable&gt;(of: &#x3c4;_1_0, perform: (&#x3c4;_1_0) -&gt; ()) -&gt; some&gt;&gt;.0 in calendar.CalendarView.body.getter : some"
+                  moduleName = "calendar"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nakatsugawa/Code/NCMB/calendar/calendar/CalendarView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "100"
+                  endingLineNumber = "100"
+                  offsetFromSymbolStart = "444">
+               </Location>
+               <Location
+                  uuid = "B002A90D-4338-4AF8-BEA7-C5B18F81C9C3 - 347f971cc5035e1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (NCMB.NCMBObject) -&gt; Swift.Bool in closure #4 (Swift.String) -&gt; () in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.onChange&lt;&#x3c4;_0_0 where &#x3c4;_1_0: Swift.Equatable&gt;(of: &#x3c4;_1_0, perform: (&#x3c4;_1_0) -&gt; ()) -&gt; some&gt;&gt;.0 in calendar.CalendarView.body.getter : some"
+                  moduleName = "calendar"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nakatsugawa/Code/NCMB/calendar/calendar/CalendarView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "101"
+                  endingLineNumber = "101"
+                  offsetFromSymbolStart = "60">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
